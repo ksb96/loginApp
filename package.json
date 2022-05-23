@@ -1,6 +1,6 @@
 {
   "name": "node_passport_login",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Node.js authentication with Passport",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ksb96",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
