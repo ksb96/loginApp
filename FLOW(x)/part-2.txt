@@ -1,0 +1,13 @@
+main focus on - registration form
+(functionality for the registration form using Passport(npm). Also encrypt/hash the password using bcrypt(npm))
+
+STEPS, (what m i doing??)--
+**1. when user submit, its going to make a POST request to user/register **
+2. on routes/user.js - POST code block added
+3. the values which are entered by the user(on UI), will be stored in the variable(name,email.username,password)
+4. validation of the above variables.
+5. error msg display, if 1or more fields are missing<bug!! need to resolve>
+6. If everything passes, what to do??? 
+a. create a new user(mongodb)
+b. defining the schema(username, pass, email, name)(models/user.js)
+
